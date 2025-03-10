@@ -1,4 +1,6 @@
-Afnas P - 🚀 Flutter Developer
+Afnas P -  Flutter Developer
+
+
 📧 Email: afnasp549@gmail.com
 📞 Phone: +91 8156961549
 🔗 LinkedIn | GitHub
@@ -10,6 +12,8 @@ Afnas P - 🚀 Flutter Developer
 🔵 C
 🌐 HTML
 🎨 CSS
+
+
 📱 Framework & State Management
 🚀 Flutter
 🔄 BLoC
@@ -24,6 +28,9 @@ Afnas P - 🚀 Flutter Developer
 🔥 Firebase (Firestore, Authentication, Storage)
 💳 Razorpay API
 🌍 REST API
+
+
+
 🛠️ Tools & Platforms
 🐙 Git
 🔗 GitHub
