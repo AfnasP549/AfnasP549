@@ -5,16 +5,29 @@ Afnas P - 🚀 Flutter Developer
 
 🛠 Technology Skills
 💻 Programming Languages
-🟡 Dart | ☕ Java | 🔵 C | 🌐 HTML | 🎨 CSS
-
+🟡 Dart
+☕ Java
+🔵 C
+🌐 HTML
+🎨 CSS
 📱 Framework & State Management
-🚀 Flutter | 🔄 BLoC | ⚡ GetX | 🛠️ Provider
-
+🚀 Flutter
+🔄 BLoC
+⚡ GetX
+🛠️ Provider
 🗄️ Database Systems
-📂 Sqflite | 🗃️ SQL | 🏠 Hive (Flutter) | 🔥 Firestore
-
+📂 Sqflite
+🗃️ SQL
+🏠 Hive (Flutter)
+🔥 Firestore
 🔗 Other Technologies
-🔥 Firebase (Firestore, Authentication, Storage) | 💳 Razorpay API | 🌍 REST API
-
+🔥 Firebase (Firestore, Authentication, Storage)
+💳 Razorpay API
+🌍 REST API
 🛠️ Tools & Platforms
-🐙 Git | 🔗 GitHub | 🎨 Figma | 🧪 Postman | 📱 Android Studio | 🖥️ VS Code
+🐙 Git
+🔗 GitHub
+🎨 Figma
+🧪 Postman
+📱 Android Studio
+🖥️ VS Code
